@@ -1,0 +1,42 @@
+.appbar{
+  text-align: center;
+}
+
+.numbercard{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+  width: 500px;
+  padding-top: 20px;
+}
+.validatecard{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+  width: 500px;
+  padding-top: 20px;
+}
+
+.rbutton{
+  padding-top: 30px;
+}
+
+.carddiv{
+  margin-left: 450px;
+  margin-top: 80px;
+}
+
+p{
+  font-family: Roboto;
+  font-size: 18px;
+}
+
+.logo{
+  height: 50px;
+  width: 70px;
+  padding-bottom: 30px;
+}
